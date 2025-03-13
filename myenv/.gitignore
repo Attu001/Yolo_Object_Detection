@@ -33,3 +33,4 @@ myenv/
 *.weights
 *.dll
 *.lib
+*.names
