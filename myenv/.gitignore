@@ -1,0 +1,35 @@
+# Ignore virtual environment
+myenv/
+venv/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore logs and temporary files
+logs/
+*.log
+*.tmp
+
+# Ignore environment settings
+.env
+*.env
+
+# Ignore Jupyter Notebook checkpoints (if using)
+.ipynb_checkpoints/
+
+# Ignore large dataset or model files (optional)
+*.weights
+*.h5
+*.onnx
+
+myenv/
+*.weights
+*.dll
+*.lib
